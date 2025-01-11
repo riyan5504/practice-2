@@ -1,0 +1,40 @@
+.custom-bg{
+    background-color: rgb(234, 203, 145);
+}
+
+.custom-nav-link{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+}
+
+.cus-li{
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+.li-custom{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-hight{
+    height: 450px;
+}
+
+
+.custom-m{
+    margin: 8px 8px !important;
+    /* margin-left: 8px;     */
+    height: 300px !important;
+    width: 210px !important;
+
+}
+
+.custom-text{
+    font-size: 14px;
+}
+
+.cus-batun{
+    font-size: 14px;
+}
